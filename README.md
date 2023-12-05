@@ -15,20 +15,7 @@ This tool can be used for converting DICOM images to PNG format. DICOM (Digital 
 
 ## Usage
 
-1. Clone this repository or download the script file.
-
-2. Update the source directory and destination directory in the script to your own values:
-    ```python
-    src_dir = r'src_path'
-    dst_dir = r'dst_path'
-    ```
-
-3. Run the script:
-    ```sh
-    python dcm_to_png.py
-    ```
-
-    The script will convert all the DICOM files in the source directory to PNG format and save them in the destination directory. The output files will have the same name as the input files, with the extension changed to .png.
+Clone this repository or download the script file.
 
 ## Credits
 
