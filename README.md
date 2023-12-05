@@ -1,6 +1,6 @@
 # Dicom to PNG converter
 
-This is a tool for converting DICOM images to PNG format. DICOM (Digital Imaging and Communications in Medicine) is a standard for storing medical imaging data, and is commonly used in radiology, cardiology, and other medical fields.
+This tool can be used for converting DICOM images to PNG format. DICOM (Digital Imaging and Communications in Medicine) is a standard for storing medical imaging data, and is commonly used in radiology, cardiology, and other medical fields.
 
 ## Requirements
 
